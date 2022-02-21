@@ -1,0 +1,14 @@
+body,
+body h1 {
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 50px;
+    color: rgb(182, 159, 97);
+}
+
+ul,
+ul li a {
+    font-size: 25px;
+    color: white;
+}
